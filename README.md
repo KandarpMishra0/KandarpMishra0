@@ -7,13 +7,17 @@ I am currently working with RTL / Verification (Caveman type) and bunch of other
 
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/Verilog-222222?style=for-the-badge&logo=code&logoColor=white) ![GTKWave](https://img.shields.io/badge/GTKWave-4A4A4A?style=for-the-badge&logo=gnome&logoColor=white) 
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0A0A0A?style=for-the-badge&logo=microchip&logoColor=white)
+
+# Tools:
+
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-222222?style=for-the-badge&logo=web&logoColor=white) 
+![GTKWave](https://img.shields.io/badge/GTKWave-4A4A4A?style=for-the-badge&logo=gnome&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KandarpMishra0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=KandarpMishra0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KandarpMishra0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KandarpMishra0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
